@@ -1,0 +1,8 @@
+{
+    "name": "a",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "build lib into ../../dist/a",
+        "release": "npm publish ../../dist/a --dry-run"
+    }
+}
